@@ -10,3 +10,5 @@ Full Stack Link - https://github.com/Decrypthor/Waves-onRoll
 
 Medium - https://blog.cosmos.network/defi-hackathon-the-top-7-projects-changing-the-game-in-finance-e66cb9af1c7f
 
+Demo DApp on Waves testnet address: 3MqCRi5ebPjXxEz8QB1MwTJQX5Nuv1QASAX
+
