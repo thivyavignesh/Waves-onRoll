@@ -2,7 +2,6 @@
 {-# SCRIPT_TYPE ACCOUNT #-}
 {-# CONTENT_TYPE DAPP #-}
 
-
 @Callable(i)
 func enrollEmpPay (employee,empId,amount,description) = if (if ((this == i.caller))
     then !(isDefined(getBoolean(this, (employee + "_state"))))
